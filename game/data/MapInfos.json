@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"世界地图","order":2,"parentId":0,"scrollX":451,"scrollY":294},
+{"id":2,"expanded":true,"name":"哥布林村庄（损坏","order":4,"parentId":1,"scrollX":584,"scrollY":906},
+{"id":3,"expanded":false,"name":"魔法阵","order":3,"parentId":1,"scrollX":451,"scrollY":330},
+{"id":4,"expanded":false,"name":"Reez家","order":5,"parentId":2,"scrollX":461,"scrollY":422},
+{"id":5,"expanded":true,"name":"人类村庄","order":6,"parentId":1,"scrollX":451,"scrollY":951},
+{"id":6,"expanded":false,"name":"关押大魔法师的塔楼","order":12,"parentId":1,"scrollX":637,"scrollY":1242},
+{"id":7,"expanded":true,"name":"旅馆 1F","order":9,"parentId":1,"scrollX":557,"scrollY":346},
+{"id":8,"expanded":false,"name":"旅馆 2F","order":10,"parentId":7,"scrollX":451,"scrollY":500},
+{"id":9,"expanded":false,"name":"武器商店","order":8,"parentId":5,"scrollX":451,"scrollY":330},
+{"id":10,"expanded":false,"name":"物品商店","order":7,"parentId":5,"scrollX":451,"scrollY":442},
+{"id":11,"expanded":false,"name":"哥布林魔法村庄遗迹","order":13,"parentId":1,"scrollX":832,"scrollY":902},
+{"id":12,"expanded":false,"name":"酒吧","order":11,"parentId":7,"scrollX":509,"scrollY":474},
+{"id":13,"expanded":false,"name":"开场","order":1,"parentId":0,"scrollX":816,"scrollY":640}
+]
